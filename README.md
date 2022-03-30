@@ -1,4 +1,4 @@
-🌱 I’m currently learning Javascript, CSS, HTML programming at Artevelde Hogeschool  to do something with web design and maybe in the future even game development in the future 
+🌱 I’m currently learning Javascript, CSS, HTML with templating Eleventy and Framwork Handlebars.js  at Artevelde Hogeschool  to do something with web design and maybe  even game development in the future 
    
 🤔 I’m looking for help with javascript mostly its quite hard to wrap my head around  since i've just entered my second semester and im happily looking forward to more of crazy wacky development
    
