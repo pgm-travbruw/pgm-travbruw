@@ -1,9 +1,12 @@
 🌱 I’m currently learning Javascript, CSS, HTML programming at Artevelde Hogeschool  to do something with web design and maybe in the future even game development in the future 
    
-   I've just entered my second semester and im happily looking forward to more of crazy wacky development
+🤔 I’m looking for help with javascript mostly its quite hard to wrap my head around  since i've just entered my second semester and im happily looking forward to more of crazy wacky development
+   
    
 📫 You can reach me : you can reach me on LinkedIn ( https://www.linkedin.com/in/travis-bruwiere-5431a0220/ ) all other relevant info is also on there.
 
+
+⚡ Fun fact: I'm a gamer who likes to speedrun and would therefor love to make a speedrun game of my own in my own time!
   
 <!--
 **pgm-travbruw/pgm-travbruw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
